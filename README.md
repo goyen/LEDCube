@@ -11,3 +11,4 @@ pattern(): pattern file made by init()
 
 main(): main opperation 
 
+https://youtu.be/7OKG3AEI6L0
